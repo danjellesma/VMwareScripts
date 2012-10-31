@@ -1,4 +1,4 @@
 VMwareScripts
 =============
 
-PowerCLI Scripts to Build and Manager a VMware Infrastructure
+PowerCLI Scripts to build and manage a VMware vSphere infrastructure
